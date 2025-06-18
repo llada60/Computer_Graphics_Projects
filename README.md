@@ -1,6 +1,8 @@
 # Computer Graphics Projects
 
-Homework for **CSC_4IG03_TP** Fundamentals of Computer Graphics and **CSC_4IG01_TP** Interactive 3D Application Development. Each link below points to a corresponding project:
+Homework for **CSC_4IG03_TP** Fundamentals of Computer Graphics and **CSC_4IG01_TP** Interactive 3D Application Development. 
+
+Each link below points to a corresponding project:
 
 - [A Small Solar System](https://github.com/llada60/Artificial-Solar-System)
 - [Loop Subdivision](https://github.com/llada60/LoopSubdivision)
