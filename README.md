@@ -2,7 +2,7 @@
 
 Homework for **CSC_4IG03_TP** Fundamentals of Computer Graphics and **CSC_4IG01_TP** Interactive 3D Application Development
 
-- [A small solar system](https://github.com/llada60/Artificial-Solar-System)
+- [A Small Solar System](https://github.com/llada60/Artificial-Solar-System)
 - [Loop Subdivision](https://github.com/llada60/LoopSubdivision)
 - [Real-time Rendering of Shadow](https://github.com/llada60/Shadow_Real-time_Rendering)
 - [SPH Simulation](https://github.com/llada60/SPH_Simulation)
